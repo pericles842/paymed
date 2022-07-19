@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="animate.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627000000000" Dst="0" />
+<file name="BrowserWindow.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627000000000" Dst="0" />
+<file name="ActiveFilter.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627000000000" Dst="0" />
+<file name="EventReceiver.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627000000000" Dst="0" />
+<file name="FilterContainer.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="FilterControls.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="FilterItem.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="FilterItems.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="Filterizr.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="FilterizrElement.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="filterizr.min.js" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="index.jquery.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="getLayoutPositions.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="index.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="installAsJQueryPlugin.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="jquery.filterizr.min.js" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="StyledFilterizrElement.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="StyledFilterizrElements.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="utils.d.ts" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="vanilla.filterizr.min.js" server="204.93.193.167/public_html/demo/habita/" local="132285932060000000" remote="132288627600000000" Dst="0" />
+<file name="animate.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="BrowserWindow.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="ActiveFilter.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="EventReceiver.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="FilterContainer.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="FilterControls.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="FilterItem.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="FilterItems.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="Filterizr.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="filterizr.min.js" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="FilterizrElement.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="getLayoutPositions.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="index.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="index.jquery.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="installAsJQueryPlugin.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="jquery.filterizr.min.js" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="StyledFilterizrElement.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="StyledFilterizrElements.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194200000000" Dst="0" />
+<file name="utils.d.ts" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194800000000" Dst="0" />
+<file name="vanilla.filterizr.min.js" server="198.54.115.14/public_html/" local="132285932060000000" remote="132356194800000000" Dst="0" />
+</dwsync>
