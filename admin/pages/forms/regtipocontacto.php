@@ -8,10 +8,10 @@
 		$estatus = $_POST['estatus'];
 
 		//echo $categoria.'--'.$describelo; exit();
-		$str="INSERT INTO tipocontacto(tipocontacto,idestatus) VALUES ('".$contacto."','".$estatus."')";
+		$str="INSERT INTO tipocontacto(tipocontacto,idestatus) VALUES ('".ucfirst($contacto)."','".$estatus."')";
 		$conexion=$mysqli->query($str);
 		
-		echo '<script language="javascript">alert("Registro Exitoso !!!");window.location.href="rpt_asesor.php"; </script>';
+		echo '<script language="javascript">alert("Registro Exitoso !!!");window.location.href="rpt_tipocontacto.php"; </script>';
 	}	
 ?>
 <!DOCTYPE html>
@@ -116,7 +116,7 @@
       </div>
 	  <div class="row">
         <div align="center" class="col-12">
-          <a href="rpt_asesor.php" class="btn btn-secondary">Atras</a>          
+          <a href="rpt_tipocontacto.php" class="btn btn-secondary">Atras</a>          
         </div>
       </div>
     </section>

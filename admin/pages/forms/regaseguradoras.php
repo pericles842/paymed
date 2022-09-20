@@ -133,7 +133,7 @@
       </div>
 	  <div class="row">
         <div align="center" class="col-12">
-          <a href="rpt_asesor.php" class="btn btn-secondary">Atras</a>          
+          <a href="rpt_aseguradoras.php" class="btn btn-secondary">Atras</a>          
         </div>
       </div>
     </section>

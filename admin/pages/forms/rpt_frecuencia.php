@@ -121,8 +121,8 @@
                               $respst=$mysqli->query($sqlst); $rowst = mysqli_fetch_array($respst);
                               echo $rowst['estatus']; ?></td>
                       <td class="project-actions text-right">
-						            <a class="btn btn-info btn-sm" href="udpasesor.php?idasesor=<?php echo $row['idasesor'];?>"><i class="fas fa-pencil-alt"></i> Editar</a>
-                        <a class="btn btn-danger btn-sm" href="src_del_asesor.php?idasesor=<?php echo $row['idasesor'];?>"><i class="fas fa-trash"></i> Eliminar</a>
+						            <a class="btn btn-info btn-sm" href="upd_frecuencia.php?idfrecuencia=<?php echo $row['idfq'];?>"><i class="fas fa-pencil-alt"></i> Editar</a>
+                        <a class="btn btn-danger btn-sm" href="src_del_frecuencia.php?idfrecuencia=<?php echo $row['idfq'];?>"><i class="fas fa-trash"></i> Eliminar</a>
                       </td>
 					  
                   </tr>
